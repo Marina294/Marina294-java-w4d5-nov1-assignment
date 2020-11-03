@@ -2,9 +2,6 @@ package marina1102w5d1assignment;
 
 import java.util.ArrayList;
 
-import marina1030w4d5assignment.Employee;
-import marina1030w4d5assignment.HourlyEmployee;
-import marina1030w4d5assignment.SalesEmployee;
 
 public class Driver {
 
